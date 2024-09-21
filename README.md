@@ -1,6 +1,6 @@
 # Simple JavaScript Drum Kit
 
-This is a basic interactive drum kit built with [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev). and [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+This is a basic interactive drum kit built with HTML, CSS and JS.
 
 ## Demo
 
